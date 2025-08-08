@@ -20,8 +20,8 @@ O sistema é interativo, solicitando entradas do usuário e exibindo os dados de
 1. Certifique-se de ter o **Python 3** instalado.
 2. Baixe/clonar o projeto:
    ```bash
-   git clone https://github.com/seuusuario/meu_projeto.git
-   cd meu_projeto
+   git clone https://github.com/GenesonFerreira/CRUD_Basic_Python
+   cd CRUD_Basic_Python
    
 ---
 
